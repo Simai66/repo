@@ -1,1 +1,3 @@
 Hello mai 
+Age 20
+Major com-sci
